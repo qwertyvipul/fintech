@@ -8,5 +8,5 @@ The world of Finance Technology.
 ```
 
 ### Some useful terms
-**Discounting** - The present value of the future cash flow.
-**Discounting** - The present value of the future cash flow.
+* **Discounting** - The present value of the future cash flow.
+* **Discounting** - The present value of the future cash flow.
