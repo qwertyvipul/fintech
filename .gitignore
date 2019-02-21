@@ -1,0 +1,7 @@
+*.xlsx
+*.csv
+*.zip
+py/jupyter/.ipynb_checkpoints/*
+data/*
+projects/ud501/.ipynb_checkpoints/*
+images/top-investors-sustained-returns.jpg
